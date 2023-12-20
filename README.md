@@ -9,7 +9,7 @@ Origine : [PHP Sandbox](https://hackropole.fr/fr/challenges/web/fcsc2019-web-php
 
 
 ## Accédez via l'adresse
-> http://loaclhost
+> http://localhost
 
 
 
